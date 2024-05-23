@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# Symmio CCTP USDC bridge(Mantle and Base)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
-Try running some of the following tasks:
+this project is implementation of a USDC bridge that use [Circle Cross-chain transfer protocol](https://www.circle.com/en/cross-chain-transfer-protocol) to deliver a USDC bridge seamless user experience for [SYMMIO](https://symm.io)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+
+## How it works?
+
+
+## Notes & Disclaimers
