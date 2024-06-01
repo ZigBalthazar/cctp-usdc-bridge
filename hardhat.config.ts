@@ -10,7 +10,7 @@ const config: HardhatUserConfig = {
     //   accounts:["<PRIVATE_LEY>"]
     // },
     base: {
-      // url: "https://mainnet.base.org",
+      url: "https://mainnet.base.org",
       // accounts:[""]
     },
   },
